@@ -1,0 +1,10 @@
+datalimit
+Pair
+timeframe
+fastlength macd
+slowlength macd
+signal smoothing macd
+sell price(incrementation in buy price)
+stop loss(decrementation in buy price)
+key
+secret
